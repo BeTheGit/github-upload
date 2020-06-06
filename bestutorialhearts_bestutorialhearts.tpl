@@ -26,7 +26,7 @@
 -->
 
 
-Hey Hearts playaaaaaaaaAAAAH, this is my first game!
+Hey Hearts testing Git commit, this is my first game!
 
 
 <script type="text/javascript">
